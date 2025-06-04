@@ -1,1 +1,1 @@
-# Simula-o-de-transa-es-concorrentes-com-a-detec-o-e-resolu-o-de-Deadlocks.
+# Simulador-de-transações-concorrentes-com-detector-de-resolução-de-Deadlocks.
