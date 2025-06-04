@@ -1,1 +1,1 @@
-# Simulador-de-transações-concorrentes-com-detector-de-resolução-de-Deadlocks.
+# Simulador-de-transações-concorrencia-com-detector-de-resolução-de-Deadlocks.
