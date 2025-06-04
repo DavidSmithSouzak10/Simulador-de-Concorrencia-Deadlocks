@@ -1,0 +1,1 @@
+# Simula-o-de-transa-es-concorrentes-com-a-detec-o-e-resolu-o-de-Deadlocks.
